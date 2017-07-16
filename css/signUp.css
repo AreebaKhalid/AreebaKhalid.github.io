@@ -25,7 +25,7 @@
 
      background:transparent;
   /* background: #23bab5;            button clr*/
-  border-radius:0;
+  border-radius:2px;
   border: 2px solid #d3d3d3;
   webkit-transition: all 400ms cubic-bezier(.4,0,.2,1);
   transition: all 400ms cubic-bezier(.4,0,.2,1);
